@@ -21,7 +21,7 @@ App.Main = function(game){
 	this.STATE_PLAY = 3;
 	this.STATE_GAMEOVER = 4;
 	
-	this.BARRIER_DISTANCE = 300;
+	this.BARRIER_DISTANCE = 100;
 }
 
 App.Main.prototype = {
